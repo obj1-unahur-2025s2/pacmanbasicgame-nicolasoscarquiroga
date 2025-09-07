@@ -16,3 +16,16 @@
 {"level":"info","message":"onRequest - STRONG_FILES_CHANGED:/home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/firstGame.gif","timestamp":"2024-05-23T01:05:33.586Z"}
 {"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame","timestamp":"2024-05-23T01:05:33.818Z"}
 {"level":"info","message":"Removing diagnostics from /home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/firstGame.gif","timestamp":"2024-05-23T01:05:33.892Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":281,"timestamp":"2025-09-07T00:15:51.596Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":278,"timestamp":"2025-09-07T00:15:51.884Z"}
+{"level":"info","message":"⌛ Validating pgmProgram.wpgm","timeElapsed":209,"timestamp":"2025-09-07T00:15:52.205Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":126,"timestamp":"2025-09-07T00:15:52.336Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":169,"timestamp":"2025-09-07T00:15:52.522Z"}
+{"level":"info","message":"⌛ Validating pgmProgram.wpgm","timeElapsed":208,"timestamp":"2025-09-07T00:15:52.769Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":179,"timestamp":"2025-09-07T00:16:58.784Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":243,"timestamp":"2025-09-07T00:16:59.036Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":164,"timestamp":"2025-09-07T00:16:59.204Z"}
+{"level":"info","message":"⌛ Validating AcaFijandomeSiSubenLosCambios.wlk","timeElapsed":258,"timestamp":"2025-09-07T00:16:59.486Z"}
+{"level":"info","message":"Removing diagnostics from /c:/Users/nicol/Desktop/ConsignasObjetos1/pacmanbasicgame-nicolasoscarquiroga/example.wlk","timestamp":"2025-09-07T00:16:59.487Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":114,"timestamp":"2025-09-07T00:16:59.657Z"}
+{"level":"info","message":"⌛ Validating pgmProgram.wpgm","timeElapsed":202,"timestamp":"2025-09-07T00:16:59.861Z"}
